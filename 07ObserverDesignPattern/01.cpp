@@ -80,7 +80,7 @@ int main(){
 
     chnl->unsubscribe(*subs1);
 
-    chnl->uploadVideo("don't make ats friendly resume");
+    chnl->uploadVideo("don't make ats friendly resumes");
 
   return 0;
 }
